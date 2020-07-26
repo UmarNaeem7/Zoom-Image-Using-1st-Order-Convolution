@@ -8,4 +8,5 @@ Input image:
 ![](input.png)
 
 Output image(Randomly selected starting row, col & height, width values):
+
 ![](output.png)
